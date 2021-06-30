@@ -266,6 +266,7 @@ footer-info {
 }
 .footer-info button:hover {
     background-color: #66C05D;
+    color: #fff;
 }
 .social {
     display: flex;
